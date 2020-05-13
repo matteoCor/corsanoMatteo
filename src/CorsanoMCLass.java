@@ -4,7 +4,7 @@
  *         <h4>Corsano Matteo 4AI</h4> 13/05/2020
  *
  */
-
+//version 2
 public class CorsanoMCLass {
 	/**
 	 * costruttore vuoto
