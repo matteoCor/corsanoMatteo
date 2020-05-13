@@ -21,7 +21,7 @@ public class CorsanoMCLass {
 	 */
 	public float CorsanoMMet(int b, int e) {
 		int val1 = 1;
-		for (int i = 1; i <= b; i++) {
+		for (int i = 1; i <= e; i++) { // l'errore è il <=b non deve essere <=b ma <=e
 			val1 = val1 * b;
 		}
 		return val1;
